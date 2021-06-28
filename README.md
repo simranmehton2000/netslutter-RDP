@@ -1,8 +1,6 @@
-## If Error Showed
 
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
 
-# Free RDP 6 HOURS
+## Free RDP 6 HOURS
 
 it's all free, don't be stingy ⭐️ yes: D
 
@@ -26,6 +24,9 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
+## If Error Showed
+
+Just Download This Whole repository And make new repo in your GitHub account and upload all the files
 ### WARN
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
